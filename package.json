@@ -1,0 +1,13 @@
+{
+  "name": "UrnaProject",
+  "version": "0.0.0",
+  "description": "Urna application.",
+  "main": "server.js",
+  "author": "Ricca",
+  "private": false,
+  "dependencies": {
+    "ejs": "^2.3.4",
+    "express": "~4.7.2",
+    "express-load": "^1.1.15"
+  }
+}
